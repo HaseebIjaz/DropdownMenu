@@ -1,0 +1,14 @@
+.menu {
+    background: #E0E0E0;
+    border-top: 1px solid #CFCFCF;
+    border-bottom: 1px solid #CFCFCF;
+    padding: 0.5rem 2rem;
+}
+.menu__item{
+    display:inline-block;
+    font-family: Roboto;
+    font-size: 0.9rem;
+    font-weight: 800;
+    color:#292929;
+    padding: 0 1 rem;
+}
